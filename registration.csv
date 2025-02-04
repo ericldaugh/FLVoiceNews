@@ -1,68 +1,336 @@
-County,Republican Number,Republican Percent,Democratic Number,Democratic Percent,NPA Number,NPA Percent,Total Number,Total Percent
-Alachua,,,,,,,,
-Baker,,,,,,,,
-Bay,,,,,,,,
-Bradford,,,,,,,,
-Brevard,,,,,,,,
-Broward,,,,,,,,
-Calhoun,,,,,,,,
-Charlotte,,,,,,,,
-Citrus,,,,,,,,
-Clay,,,,,,,,
-Collier,,,,,,,,
-Columbia,,,,,,,,
-DeSoto,,,,,,,,
-Dixie,,,,,,,,
-Duval,,,,,,,,
-Escambia,,,,,,,,
-Flagler,,,,,,,,
-Franklin,,,,,,,,
-Gadsden,,,,,,,,
-Gilchrist,,,,,,,,
-Glades,,,,,,,,
-Gulf,,,,,,,,
-Hamilton,,,,,,,,
-Hardee,,,,,,,,
-Hendry,,,,,,,,
-Hernando,,,,,,,,
-Highlands,,,,,,,,
-Hillsborough,,,,,,,,
-Holmes,,,,,,,,
-Indian River,,,,,,,,
-Jackson,,,,,,,,
-Jefferson,,,,,,,,
-Lafayette,,,,,,,,
-Lake,,,,,,,,
-Lee,,,,,,,,
-Leon,,,,,,,,
-Levy,,,,,,,,
-Liberty,,,,,,,,
-Madison,,,,,,,,
-Manatee,,,,,,,,
-Marion,,,,,,,,
-Martin,,,,,,,,
-Miami-Dade,,,,,,,,
-Monroe,,,,,,,,
-Nassau,,,,,,,,
-Okaloosa,,,,,,,,
-Okeechobee,,,,,,,,
-Orange,,,,,,,,
-Osceola,,,,,,,,
-Palm Beach,,,,,,,,
-Pasco,,,,,,,,
-Pinellas,,,,,,,,
-Polk,,,,,,,,
-Putnam,,,,,,,,
-Santa Rosa,,,,,,,,
-Sarasota,,,,,,,,
-Seminole,,,,,,,,
-St. Johns,,,,,,,,
-St. Lucie,,,,,,,,
-Sumter,,,,,,,,
-Suwannee,,,,,,,,
-Taylor,,,,,,,,
-Union,,,,,,,,
-Volusia,,,,,,,,
-Wakulla,,,,,,,,
-Walton,,,,,,,,
-Washington,,,,,,,,
+County,Republican,Democratic,NPA,Total
+Alachua,DEM - Florida Democratic Party
+78,695
+45.25%,DEM - Florida Democratic Party,78,695,Total
+173,910
+100.00%
+Baker,REP - Republican Party of Florida
+12,950
+66.72%,REP - Republican Party of Florida,12,950,Total
+19,409
+100.00%
+Bay,REP - Republican Party of Florida
+75,657
+56.22%,REP - Republican Party of Florida,75,657,Total
+134,564
+100.00%
+Bradford,REP - Republican Party of Florida
+11,223
+60.15%,REP - Republican Party of Florida,11,223,Total
+18,657
+100.00%
+Brevard,REP - Republican Party of Florida
+204,142
+45.24%,REP - Republican Party of Florida,204,142,Total
+451,291
+100.00%
+Broward,DEM - Florida Democratic Party
+521,267
+44.47%,DEM - Florida Democratic Party,521,267,Total
+1,172,218
+100.00%
+Calhoun,REP - Republican Party of Florida
+4,907
+59.23%,REP - Republican Party of Florida,4,907,Total
+8,285
+100.00%
+Charlotte,REP - Republican Party of Florida
+80,279
+51.83%,REP - Republican Party of Florida,80,279,Total
+154,875
+100.00%
+Citrus,REP - Republican Party of Florida
+70,090
+57.37%,REP - Republican Party of Florida,70,090,Total
+122,167
+100.00%
+Clay,REP - Republican Party of Florida
+89,580
+55.86%,REP - Republican Party of Florida,89,580,Total
+160,355
+100.00%
+Collier,REP - Republican Party of Florida
+144,803
+53.96%,REP - Republican Party of Florida,144,803,Total
+268,373
+100.00%
+Columbia,REP - Republican Party of Florida
+24,526
+56.79%,REP - Republican Party of Florida,24,526,Total
+43,184
+100.00%
+DeSoto,REP - Republican Party of Florida
+9,118
+45.78%,REP - Republican Party of Florida,9,118,Total
+19,919
+100.00%
+Dixie,REP - Republican Party of Florida
+7,148
+63.01%,REP - Republican Party of Florida,7,148,Total
+11,345
+100.00%
+Duval,DEM - Florida Democratic Party
+253,124
+38.08%,DEM - Florida Democratic Party,253,124,Total
+664,787
+100.00%
+Escambia,REP - Republican Party of Florida
+102,564
+46.52%,REP - Republican Party of Florida,102,564,Total
+220,467
+100.00%
+Flagler,REP - Republican Party of Florida
+48,947
+49.31%,REP - Republican Party of Florida,48,947,Total
+99,260
+100.00%
+Franklin,REP - Republican Party of Florida
+4,032
+52.34%,REP - Republican Party of Florida,4,032,Total
+7,704
+100.00%
+Gadsden,DEM - Florida Democratic Party
+18,291
+66.78%,DEM - Florida Democratic Party,18,291,Total
+27,390
+100.00%
+Gilchrist,REP - Republican Party of Florida
+9,188
+68.07%,REP - Republican Party of Florida,9,188,Total
+13,498
+100.00%
+Glades,REP - Republican Party of Florida
+4,145
+57.36%,REP - Republican Party of Florida,4,145,Total
+7,226
+100.00%
+Gulf,REP - Republican Party of Florida
+7,073
+61.34%,REP - Republican Party of Florida,7,073,Total
+11,531
+100.00%
+Hamilton,REP - Republican Party of Florida
+3,718
+50.52%,REP - Republican Party of Florida,3,718,Total
+7,360
+100.00%
+Hardee,REP - Republican Party of Florida
+7,140
+54.04%,REP - Republican Party of Florida,7,140,Total
+13,212
+100.00%
+Hendry,REP - Republican Party of Florida
+8,973
+48.87%,REP - Republican Party of Florida,8,973,Total
+18,361
+100.00%
+Hernando,REP - Republican Party of Florida
+71,489
+48.99%,REP - Republican Party of Florida,71,489,Total
+145,925
+100.00%
+Highlands,REP - Republican Party of Florida
+35,302
+53.11%,REP - Republican Party of Florida,35,302,Total
+66,469
+100.00%
+Hillsborough,REP - Republican Party of Florida
+301,964
+34.40%,REP - Republican Party of Florida,301,964,Total
+877,676
+100.00%
+Holmes,REP - Republican Party of Florida
+8,037
+72.40%,REP - Republican Party of Florida,8,037,Total
+11,101
+100.00%
+Indian River,REP - Republican Party of Florida
+62,236
+51.37%,REP - Republican Party of Florida,62,236,Total
+121,147
+100.00%
+Jackson,REP - Republican Party of Florida
+15,908
+56.95%,REP - Republican Party of Florida,15,908,Total
+27,934
+100.00%
+Jefferson,REP - Republican Party of Florida
+4,559
+45.84%,REP - Republican Party of Florida,4,559,Total
+9,946
+100.00%
+Lafayette,REP - Republican Party of Florida
+3,378
+76.01%,REP - Republican Party of Florida,3,378,Total
+4,444
+100.00%
+Lake,REP - Republican Party of Florida
+130,235
+47.20%,REP - Republican Party of Florida,130,235,Total
+275,906
+100.00%
+Lee,REP - Republican Party of Florida
+240,957
+47.89%,REP - Republican Party of Florida,240,957,Total
+503,179
+100.00%
+Leon,DEM - Florida Democratic Party
+98,815
+48.61%,DEM - Florida Democratic Party,98,815,Total
+203,269
+100.00%
+Levy,REP - Republican Party of Florida
+18,404
+60.07%,REP - Republican Party of Florida,18,404,Total
+30,636
+100.00%
+Liberty,REP - Republican Party of Florida
+2,743
+59.13%,REP - Republican Party of Florida,2,743,Total
+4,639
+100.00%
+Madison,REP - Republican Party of Florida
+5,574
+45.22%,REP - Republican Party of Florida,5,574,Total
+12,326
+100.00%
+Manatee,REP - Republican Party of Florida
+137,383
+48.23%,REP - Republican Party of Florida,137,383,Total
+284,866
+100.00%
+Marion,REP - Republican Party of Florida
+137,739
+50.09%,REP - Republican Party of Florida,137,739,Total
+274,962
+100.00%
+Martin,REP - Republican Party of Florida
+62,714
+53.04%,REP - Republican Party of Florida,62,714,Total
+118,231
+100.00%
+Miami-Dade,DEM - Florida Democratic Party
+523,049
+33.73%,DEM - Florida Democratic Party,523,049,Total
+1,550,551
+100.00%
+Monroe,REP - Republican Party of Florida
+23,995
+45.03%,REP - Republican Party of Florida,23,995,Total
+53,289
+100.00%
+Nassau,REP - Republican Party of Florida
+47,557
+60.42%,REP - Republican Party of Florida,47,557,Total
+78,716
+100.00%
+Okaloosa,REP - Republican Party of Florida
+88,599
+57.18%,REP - Republican Party of Florida,88,599,Total
+154,940
+100.00%
+Okeechobee,REP - Republican Party of Florida
+12,359
+57.85%,REP - Republican Party of Florida,12,359,Total
+21,365
+100.00%
+Orange,DEM - Florida Democratic Party
+330,446
+39.44%,DEM - Florida Democratic Party,330,446,Total
+837,943
+100.00%
+Osceola,DEM - Florida Democratic Party
+87,944
+35.84%,DEM - Florida Democratic Party,87,944,Total
+245,369
+100.00%
+Palm Beach,DEM - Florida Democratic Party
+337,431
+36.51%,DEM - Florida Democratic Party,337,431,Total
+924,317
+100.00%
+Pasco,REP - Republican Party of Florida
+181,414
+43.85%,REP - Republican Party of Florida,181,414,Total
+413,732
+100.00%
+Pinellas,REP - Republican Party of Florida
+246,986
+38.11%,REP - Republican Party of Florida,246,986,Total
+648,140
+100.00%
+Polk,REP - Republican Party of Florida
+192,769
+40.90%,REP - Republican Party of Florida,192,769,Total
+471,304
+100.00%
+Putnam,REP - Republican Party of Florida
+26,030
+55.36%,REP - Republican Party of Florida,26,030,Total
+47,021
+100.00%
+Santa Rosa,REP - Republican Party of Florida
+91,633
+62.02%,REP - Republican Party of Florida,91,633,Total
+147,758
+100.00%
+Sarasota,REP - Republican Party of Florida
+161,010
+47.60%,REP - Republican Party of Florida,161,010,Total
+338,276
+100.00%
+Seminole,REP - Republican Party of Florida
+122,528
+34.96%,REP - Republican Party of Florida,122,528,Total
+350,487
+100.00%
+St. Johns,REP - Republican Party of Florida
+130,342
+54.94%,REP - Republican Party of Florida,130,342,Total
+237,256
+100.00%
+St. Lucie,REP - Republican Party of Florida
+91,906
+37.33%,REP - Republican Party of Florida,91,906,Total
+246,222
+100.00%
+Sumter,REP - Republican Party of Florida
+74,592
+58.55%,REP - Republican Party of Florida,74,592,Total
+127,402
+100.00%
+Suwannee,REP - Republican Party of Florida
+17,173
+61.94%,REP - Republican Party of Florida,17,173,Total
+27,725
+100.00%
+Taylor,REP - Republican Party of Florida
+7,471
+63.45%,REP - Republican Party of Florida,7,471,Total
+11,774
+100.00%
+Union,REP - Republican Party of Florida
+5,070
+66.33%,REP - Republican Party of Florida,5,070,Total
+7,644
+100.00%
+Volusia,REP - Republican Party of Florida
+168,416
+42.38%,REP - Republican Party of Florida,168,416,Total
+397,386
+100.00%
+Wakulla,REP - Republican Party of Florida
+13,232
+54.25%,REP - Republican Party of Florida,13,232,Total
+24,393
+100.00%
+Walton,REP - Republican Party of Florida
+41,193
+66.52%,REP - Republican Party of Florida,41,193,Total
+61,922
+100.00%
+Washington,REP - Republican Party of Florida
+10,076
+66.55%,REP - Republican Party of Florida,10,076,Total
+15,140
+100.00%
